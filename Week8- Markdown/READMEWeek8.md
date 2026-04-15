@@ -10,3 +10,30 @@ This is another paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing el
 **This text is bold**. 
 
 ***This text is bold and italic***.
+
+Here's an unordered list, with:
+
+- One item
+* Two item
++ Three item
+  - Sub-item one!
+    - Sub-item two!
+
+Here's an ordered list, with:
+
+1. Item one
+2. Item two
+3. Item three
+   - Item three-A
+   - Item three-B
+
+>This is a block quote. It should be in block quotes! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Inline code: make `this word` inline.
+
+Inline code: make this [word] inline.
+
+```python
+def foo():
+    if not bar:
+        return True
