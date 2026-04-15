@@ -40,3 +40,9 @@ def foo():
 ```
 
 ![Here's a link!](https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg)
+
+| Number | Colour | Size |
+| :--- | :---: | ---: |
+| 2 | red | 12 |
+| 3 | blue | 14 |
+| 4 | yellow | 16 |
