@@ -46,3 +46,8 @@ def foo():
 | 2 | red | 12 |
 | 3 | blue | 14 |
 | 4 | yellow | 16 |
+
+```python
+def my_function():
+    print("Hello from a function")
+```
