@@ -37,3 +37,6 @@ Inline code: make this [word] inline.
 def foo():
     if not bar:
         return True
+```
+
+![Here's a link!](https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg)
